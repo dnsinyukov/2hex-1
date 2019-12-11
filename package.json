@@ -17,7 +17,7 @@
     "font-awesome": "^4.7.0",
     "gentelella": "^1.4.0",
     "jcarousel": "^0.3.5",
-    "jquery": "3.2.1",
+    "jquery": "3.4.0",
     "lodash": "^4.17.11",
     "pace-progress": "^1.0.2",
     "run": "^1.4.0",
